@@ -9,9 +9,10 @@
 * 成功排除嘴巴、刺青等非眼睛特徵的誤判。
 
 ## 📸 展示成果
+<img width="672" height="477" alt="messageImage_1776488312567" src="https://github.com/user-attachments/assets/2882d7ff-54a1-41df-9e97-dd8139b5f23b" />
+<img width="678" height="452" alt="messageImage_1776486987976" src="https://github.com/user-attachments/assets/54e8b40a-4c84-48d9-89f9-31b9e9fa8c5a" />
 ## 💻 如何執行
 1. 確認已安裝 `opencv-python` 與 `numpy`。
 2. 執行 `final_eye.py` 即可看到標記結果。
-<img width="672" height="477" alt="messageImage_1776488312567" src="https://github.com/user-attachments/assets/2882d7ff-54a1-41df-9e97-dd8139b5f23b" />
-<img width="678" height="452" alt="messageImage_1776486987976" src="https://github.com/user-attachments/assets/54e8b40a-4c84-48d9-89f9-31b9e9fa8c5a" />
+
 

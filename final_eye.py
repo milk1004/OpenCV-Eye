@@ -48,7 +48,6 @@ for (x, y, w, h) in faces:
             cv2.circle(img, (center_x, center_y), radius, (0, 255, 0), 2)  # 畫綠色外圈
             cv2.circle(img, (center_x, center_y), 2, (0, 0, 255), 3)      # 畫紅色圓心
 
-# 6. 白板要求 2：計算瞳孔中心的距離
 if len(pupil_centers) >= 2:
     # 確保由左至右排序，避免畫線交叉
     pupil_centers.sort(key=lambda pt: pt[0])
